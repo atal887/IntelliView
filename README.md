@@ -173,18 +173,15 @@ UPLOAD_FOLDER=uploads/
 
 For queries or contributions, reach out via:
 
-📧 aryan1509bansal@gmail.com 
-🔗 [LinkedIn](https://linkedin.com/in/aryanbansal1509)
+📧 atalnandini887@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/atalnandini887/)
 
 ---
 
 ## 👥 Team Members
 
-- **Tanisha Khanna**  🔗 [GitHub](https://github.com/tanisha495)  🔗 [LinkedIn](https://www.linkedin.com/in/tanisha-khanna-432672323/)
+- **Aryan Bansal**  🔗 [GitHub](https://github.com/algo-aryan)  🔗 [LinkedIn](https://linkedin.com/in/aryanbansal1509)
 
-- **Arnav Bansal**  🔗 [GitHub](https://github.com/Krypto-Knight-05)  🔗 [LinkedIn](https://www.linkedin.com/in/arnav-bansal-175968314/)
-
-- **Tushti Gupta**  🔗 [GitHub](https://github.com/Tushti11)  🔗 [LinkedIn](https://www.linkedin.com/in/tushti-gupta-aa761323b/)
 
 ---
 
